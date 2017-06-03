@@ -3,3 +3,4 @@
 http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 # 使用双拼打字
 # 打字要练习（双拼和英文），主要是编码需要输入英文，其他交流需要中文。
+### 读书要快，读一个类型的书多了自然就快。
