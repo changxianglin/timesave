@@ -10,3 +10,4 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 ### 简单的原则就是：你觉得缺什么， 你就去学什么。
 ### 想问题要多想，想清楚，看明白，多跳脱自己的视角看问题
 ### 看书慢，努力看。
+### github 提交无记录之前在哪儿看到过，我要翻一下记录。
