@@ -12,3 +12,4 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 ### 看书慢，努力看。
 ### github 提交无记录之前在哪儿看到过，我要翻一下记录。
 ### 跑步圣经
+### 加快看书速度，多看才能熟悉各种知识。
