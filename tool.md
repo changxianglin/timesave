@@ -14,3 +14,4 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 ### 跑步圣经
 ### 加快看书速度，多看才能熟悉各种知识。
 ### 加大学习的力度，特别是 JS
+### 萧大直播代码太精妙，之后专注于萧大的按排的学习路径。
