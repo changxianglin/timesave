@@ -17,3 +17,4 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 ### 萧大直播代码太精妙，之后专注于萧大的按排的学习路径。
 ### 必须成，必须。
 ### 一切的基础都是最起码的，我需要的最起码的技能，1. JS 2. HTML/HTML5 3. CSS/CSS3 （1 2 3 点为主）4. jQuery 5. 设计模式 （4 5 为辅）
+### 萧三本 《SICP》 《CSAPP》 《CLRS》 《代码大全》
