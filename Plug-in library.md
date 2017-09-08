@@ -7,3 +7,20 @@
 * 前端开发仓库：http://code.ciaoca.com/
 * 关于 jQuery 的一切：http://jquery.com/
 * 一个 jQuery 的收集库：http://www.htmleaf.com/jQuery/
+### 以下是一些图片处理库
+      *  https://github.com/dimsemenov/Magnific-Popup
+      *  https://github.com/jackmoore/colorbox
+      *  https://github.com/fancyapps/fancybox/tree/3.1
+      *  https://github.com/lokesh/lightbox2
+      *  https://github.com/sachinchoolur/lightgallery.js
+      *  https://github.com/terrymun/Fluidbox
+      *  https://github.com/brutaldesign/swipebox
+      *  https://github.com/noelboss/featherlight
+      *  https://github.com/feimosi/baguetteBox.js
+      *  https://github.com/jsor/lity
+      *  https://github.com/henrygd/bigpicture
+      *  https://github.com/appleple/SmartPhoto
+      *  https://github.com/nicolafranchini/VenoBox
+      *  https://github.com/cbopp-art/lightcase
+      *  https://github.com/imgix/luminous
+      *  https://github.com/rejas/imagelightbox
