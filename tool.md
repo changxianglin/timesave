@@ -19,3 +19,8 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 ### 一切的基础都是最起码的，我需要的最起码的技能，1. JS 2. HTML/HTML5 3. CSS/CSS3 （1 2 3 点为主）4. jQuery 5. 设计模式 （4 5 为辅）
 ### 萧三本 《SICP》 《CSAPP》 《CLRS》 《代码大全》
 ### 代码技巧学习处：https://space.bilibili.com/39066904?from=search&seid=8685260047812370414#!/
+
+### 百度不给 github.io 的链接
+    * 以下链接关于单页应用
+    * https://www.gitbook.com/@leohxj
+    * http://island205.github.io/Single-Page-App-Break/
