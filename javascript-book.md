@@ -8,3 +8,9 @@
     6. javascript 设计模式：通过代码和设计模式创建更好的应用
     7. 面向对象的 javascript
     8. javascript 编程精解
+
+### Jquery 用于实战(官方推荐三本书)
+
+    1. jQuery 基础教程
+    2. jQuery 实战
+    3. 简洁的 jQuery
