@@ -6,3 +6,4 @@
 * 前端教程集合出(2): http://www.runoob.com/
 * 前端开发仓库：http://code.ciaoca.com/
 * 关于 jQuery 的一切：http://jquery.com/
+* 一个 jQuery 的收集库：http://www.htmleaf.com/jQuery/
