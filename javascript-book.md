@@ -14,3 +14,6 @@
     1. jQuery 基础教程
     2. jQuery 实战
     3. 简洁的 jQuery
+
+### 精简的讲透 javascript 篇
+    * http://www.cnblogs.com/leadzen/archive/2008/02/25/1073404.html
