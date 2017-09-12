@@ -25,3 +25,9 @@
       *  https://github.com/imgix/luminous
       *  https://github.com/rejas/imagelightbox
       *  http://lokeshdhakar.com/projects/lightbox2/
+
+### 这是一个插件
+ * http://layer.layui.com/
+ * http://webres.wang/16-jquery-modal-dialog-boxes/ (介绍的几款插件)
+ * http://www.jeasyui.net/
+ * http://www.oschina.net/news/53614/useful-jquery-libraries
