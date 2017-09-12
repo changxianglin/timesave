@@ -24,3 +24,4 @@
       *  https://github.com/cbopp-art/lightcase
       *  https://github.com/imgix/luminous
       *  https://github.com/rejas/imagelightbox
+      *  http://lokeshdhakar.com/projects/lightbox2/
