@@ -32,3 +32,8 @@
  * http://webres.wang/16-jquery-modal-dialog-boxes/ (介绍的几款插件)
  * http://www.jeasyui.net/
  * http://www.oschina.net/news/53614/useful-jquery-libraries
+
+### jQuery 文档及插件相关
+     * http://jquery.com/（英文原文文档）
+     * http://www.jquery123.com/（中文文档 1）
+     * http://jquery.cuishifeng.cn/（中文文档 2）
