@@ -4,7 +4,7 @@
 * User-Agent Switcher for Chrome
 * WEB前端助手(FeHelper) 
 * 印象笔记·剪藏
-* 二维码生成器
+* 二维码生成器(前端开发调试，生成当前网页的二维码)
 * WhatRuns（网站分析）
 * Wappalyzer（网站分析）
 ---
