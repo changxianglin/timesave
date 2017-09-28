@@ -42,3 +42,6 @@
 
 # 最好的教程站
 * http://www.runoob.com/（有文档，有例子）
+
+### CSS 效果库
+  * http://lea.verou.me/css3patterns/
