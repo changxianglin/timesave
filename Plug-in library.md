@@ -26,6 +26,8 @@
       *  https://github.com/imgix/luminous
       *  https://github.com/rejas/imagelightbox
       *  http://lokeshdhakar.com/projects/lightbox2/
+### 后台管理界面模板
+     * http://blog.csdn.net/weiyang7545/article/details/51773199
 
 ### 这是一个插件
  * http://layer.layui.com/
