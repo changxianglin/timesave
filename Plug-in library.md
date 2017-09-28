@@ -45,3 +45,7 @@
 
 ### CSS 效果库
   * http://lea.verou.me/css3patterns/
+  * http://bennettfeely.com/gradients/
+  * http://simurai.com/archive/buttons/
+  * https://css-tricks.com/
+  
