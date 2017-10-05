@@ -24,3 +24,5 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
     * 以下链接关于单页应用
     * https://www.gitbook.com/@leohxj
     * http://island205.github.io/Single-Page-App-Break/
+    
+### 把大象关进冰箱理论很好，思路可以用于解决所有问题。
