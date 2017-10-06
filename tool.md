@@ -26,3 +26,4 @@ http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
     * http://island205.github.io/Single-Page-App-Break/
     
 ### 把大象关进冰箱理论很好，思路可以用于解决所有问题。
+* [代码时间](http://codetimecn.com/)
