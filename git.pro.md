@@ -6,4 +6,4 @@ ctr + shift + p 打开命令输入框
 输入 mdpt(markdown preview toggle) 后可以在左边写右边查看结果
 ```
 
-3.
+3. atom 快捷键查看 mardown 预览 ctr + shift + M 
