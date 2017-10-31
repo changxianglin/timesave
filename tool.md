@@ -1,4 +1,5 @@
 # 改键位提高效率，特别是 window 系统
+* https://zhuanlan.zhihu.com/p/24020977
 ## 前端编辑器 ATOM 的快捷键
 *  http://blog.csdn.net/zhongguohaoshaonian/article/details/52315101
 *  http://www.cnblogs.com/hubgit/p/5130192.html
