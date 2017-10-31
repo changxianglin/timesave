@@ -28,3 +28,6 @@
     
 ### 把大象关进冰箱理论很好，思路可以用于解决所有问题。
 * [代码时间](http://codetimecn.com/)
+
+### electron 教程
+* [electron 完整](https://www.kancloud.cn/winu/electron#/catalog)
