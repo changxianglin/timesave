@@ -2,6 +2,8 @@ var log = function() {
     console.log.apply(console, arguments)
 }
 
+var log = console.log.bind(console)
+
 var e = function(selector) {
     return document.querySelector(selector)
 }
