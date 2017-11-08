@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>test </title>
+    <link rel="stylesheet" type="text/css" href="src/js/jquery.notebook.css">
+    <script type="text/javascript" src="src/js/libs/jquery-1.10.2.min.js"></script>
+    <script type="text/javascript" src="src/js/jquery.notebook.js"></script>
+    <style media="screen">
+      div {
+        width: 200px;
+        height: 200px;
+        margin: 0 auto;
+      }
+      h1 {
+        color: red;
+      }
+    </style>
+  </head>
+  <body>
+  <div class="my-editor"></div>
+  <div class="">
+    <h1 class="my-insert"></h1>
+    <h3 class="write"></h3>
+  </div>
+  <button type="button" name="button">click me</button>
+  <script type="text/javascript">
+    // class ClassName {
+    //   constructor(name, num) {
+    //     this.name = name
+    //     this.num = num
+    //   }
+    //
+    //   sayName () {
+    //     return this.name
+    //   }
+    //
+    //   writeNum () {
+    //     return this.num
+    //   }
+    //
+    //   endGame () {
+    //     return ' there to go sea.'
+    //   }
+    //
+    //   inputCharacters () {
+    //     return 'Write some Thing for peopele.'
+    //   }
+    //
+    //   alertWindow () {
+    //     alert('It is you want to achivements.')
+    //   }
+    // }
+
+    // var ClassName = function(name, num) {
+    //         var o = {}
+    //         o.name = name
+    //         o.num = num
+    //
+    //         o.sayName = function() {
+    //           return o.name
+    //         }
+    //
+    //         o.writeNum = function() {
+    //           return o.num
+    //         }
+    //
+    //         o.endGame = function() {
+    //           return ' there to go sea..'
+    //         }
+    //
+    //         o.inputCharacters = function() {
+    //           return 'Write same Thing for peoples..'
+    //         }
+    //
+    //         o.alertWindow = function() {
+    //           alert('It is you want to achivements..')
+    //         }
+    //
+    //         return o
+    // }
+
+    // var ClassName = function(name, num) {
+    //       this.name = name
+    //       this.num = num
+    //
+    //       this.sayName = function() {
+    //         return this.name
+    //       }
+    //
+    //       this.writeNum = function() {
+    //         return this.num
+    //       }
+    //
+    //       this.endGame = function() {
+    //         return ' There to go sea.'
+    //       }
+    //
+    //       this.inputCharacters = function() {
+    //         return 'Write same Thing for peoples.'
+    //       }
+    //
+    //       this.alertWindow = function() {
+    //         alert(' It is you want to go echivements.')
+    //       }
+    // }
+    var ClassName = function(name, num) {
+            ClassName.prototype.name = 'wanger'
+            ClassName.prototype.num = num
+
+            ClassName.prototype.sayName = function() {
+              return this.name
+            }
+
+            ClassName.prototype.writeNum = function() {
+              return ClassName.prototype.num
+            }
+
+            ClassName.prototype.endGame = function() {
+              return ' There to go SEA.'
+            }
+
+            ClassName.prototype.inputCharacters = function() {
+              return ' Wtite same Things for people..'
+            }
+
+            ClassName.prototype.alertWindow = function() {
+              alert('It is you want to go achivements..')
+            }
+    }
+    var a = new ClassName('zhangsan', 235)
+    console.log(a.sayName())
+    a.name = "lisi"
+    document.querySelector(".my-insert").innerText = a.writeNum() + a.sayName() + a.endGame()
+    document.querySelector('.write').innerText = a.inputCharacters()
+    var b = document.querySelector('button')
+    b.innerText = a.sayName()
+    b.addEventListener('click', a.alertWindow)
+  </script>
+  </body>
+</html>
