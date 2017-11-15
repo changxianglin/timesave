@@ -10,6 +10,7 @@
 ---
 ### 国内
 [插件网](http://www.cnplugins.com)
+[chrome插件](https://chrome-extension-downloader.com/)
 
 
 ### 工具
