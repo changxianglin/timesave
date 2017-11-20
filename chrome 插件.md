@@ -15,3 +15,4 @@
 
 ### 工具
 [js&api](http://ouapi.com/)
+* Postman 发送请求测试工具 chrome　插件
