@@ -3,6 +3,8 @@
 
 >https://changxianglin.github.io/
 + [markdown 参考](http://ouapi.com/tool/md)
++ [markdown 原著](https://daringfireball.net/projects/markdown/syntax)
++ [markdown 中文手册](http://wowubuntu.com/markdown/#list)
 
 ### table
 
