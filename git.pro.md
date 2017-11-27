@@ -1,14 +1,14 @@
 ### 1) git 练习
 
-2. atom 预览 markdown 语法的结果命令
+#### 1.1 ) atom 预览 markdown 语法的结果命令
 ```
 ctr + shift + p 打开命令输入框
 输入 mdpt(markdown preview toggle) 后可以在左边写右边查看结果
 ```
 
-3. atom 快捷键查看 mardown 预览 ctr + shift + M
+#### 1.2 ) atom 快捷键查看 mardown 预览 ctr + shift + M
 
-4. git 学习链接
+### 2 ) git 学习链接
   * [菜鸟 git 教程](http://www.runoob.com/git/git-tutorial.html)
   * [git 简明指南](http://rogerdudler.github.io/git-guide/index.zh.html)
   * [git 完整命令手册](https://git-scm.com/docs)
