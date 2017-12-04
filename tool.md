@@ -36,3 +36,7 @@
 * [electron 完整](https://www.kancloud.cn/winu/electron#/catalog)
 
 ### 不用的代码及时删除，及时删除，及时删除
+
+#### 实时编译分享链接即可有代码
+* [地址](http://jsbin.com)
+* [好书一本](http://icodeit.org/)
