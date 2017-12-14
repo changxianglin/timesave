@@ -1,4 +1,5 @@
 ### 使用库高效快速节省时间收集一些库是不错的选择
+* 插件集合处：http://www.bootcss.com/
 * 各种小效果效果库有源码库：http://www.jq22.com/
 * 弹出框美化库：http://www.dglives.com/demo/sweetalert-master/example/
 * 前端资源库：http://www.dglives.com/
