@@ -40,3 +40,19 @@
 #### 实时编译分享链接即可有代码
 * [地址](http://jsbin.com)
 * [好书一本](http://icodeit.org/)
+
+#### coursera 看视频需要设置 host
+* [1](https://www.baidu.com/link?url=NPbUm540jD4HPWSR4xIdYuLUCFTVuhVdgUIbUIgmXSWG4LzLW06yB-b6Rnfz4cQDAspdfJ_06cBxDs70iB8ZNNo4lUnsoKC1HEX_oB7537S&amp;amp;wd=&amp;amp;eqid=f62ce1dc00006639000000035991028e)
+* [2](https://www.baidu.com/link?url=yqzsGmYwNyZy2MKyPLCekrNOjQDXyOqcqqbaLPm6GvTXF23EnP6tp2I5QhMLErsR2MHKyu1wYJL8p_MYG2MmDilskML6cDcsmY3o96VPKyW&amp;amp;wd=&amp;amp;eqid=ab9cb8d90000b3ca00000003599104bb)
+```
+52.84.246.72 d3c33hcgiwev3.cloudfront.net
+52.84.246.90 d3c33hcgiwev3.cloudfront.net
+52.84.246.252 d3c33hcgiwev3.cloudfront.net
+52.84.246.144 d3c33hcgiwev3.cloudfront.net
+52.84.246.72 d3c33hcgiwev3.cloudfront.net
+52.84.246.106 d3c33hcgiwev3.cloudfront.net
+52.84.246.135 d3c33hcgiwev3.cloudfront.net
+52.84.246.114 d3c33hcgiwev3.cloudfront.net
+52.84.246.90 d3c33hcgiwev3.cloudfront.net
+52.84.246.227 d3c33hcgiwev3.cloudfront.net
+```
