@@ -35,6 +35,9 @@
 ### electron 教程
 * [electron 完整](https://www.kancloud.cn/winu/electron#/catalog)
 
+#### 临时代码片段写可写处
+* [jsbin 零散代码](http://jsbin.com)
+
 ### 不用的代码及时删除，及时删除，及时删除
 
 #### 实时编译分享链接即可有代码
