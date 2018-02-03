@@ -30,3 +30,5 @@
 * 箭头函数 解构 剩余参数 Promise, 可能会附带 async await class Set     
 * React // React 也是概念性质的题目为主, 基本上不会考察写代码 React Angular Vue 这三个一般只会一个就可以的, 所以这里只说 React 的情况 react 的广告 virtual dom diff 算法的原理 * state 和 props 组件生命周期 组件通信：父组件 -> 子组件, 子组件 -> 父组件, A 组件 -> B 组件 React Router（react 路由）
 * Redux/MobX react ui 有两套很流行: Material UI 和 Ant Design, 国内流行的是 Ant Design
+---
+* 精进
