@@ -1,4 +1,4 @@
-### 使用库高效快速节省时间收集一些库是不错的选择
+## 使用库高效快速节省时间收集一些库是不错的选择
 * 插件集合处：http://www.bootcss.com/
 * 各种小效果效果库有源码库：http://www.jq22.com/
 * 弹出框美化库：http://www.dglives.com/demo/sweetalert-master/example/
@@ -9,7 +9,7 @@
 * 关于 jQuery 的一切：http://jquery.com/
 * 一个 jQuery 的收集库：http://www.htmleaf.com/jQuery/
 * 很不错的前端 UI 库 http://www.layui.com/
-### 以下是一些图片处理库
+## 以下是一些图片处理库
       *  https://github.com/dimsemenov/Magnific-Popup
       *  https://github.com/jackmoore/colorbox
       *  https://github.com/fancyapps/fancybox/tree/3.1
@@ -27,28 +27,28 @@
       *  https://github.com/imgix/luminous
       *  https://github.com/rejas/imagelightbox
       *  http://lokeshdhakar.com/projects/lightbox2/
-### 后台管理界面模板
+## 后台管理界面模板
      * http://blog.csdn.net/weiyang7545/article/details/51773199
 
-### 这是一个插件
+## 这是一个插件
  * http://layer.layui.com/
  * http://webres.wang/16-jquery-modal-dialog-boxes/ (介绍的几款插件)
  * http://www.jeasyui.net/
  * http://www.oschina.net/news/53614/useful-jquery-libraries
 
-### jQuery 文档及插件相关
+## jQuery 文档及插件相关
  * http://jquery.com/（英文原文文档）
  * http://www.jquery123.com/（中文文档 1）
  * http://jquery.cuishifeng.cn/（中文文档 2）
 
-# 最好的教程站
+## 最好的教程站
 * http://www.runoob.com/（有文档，有例子）
 
-### CSS 效果库
+## CSS 效果库
   * http://lea.verou.me/css3patterns/
   * http://bennettfeely.com/gradients/
   * http://simurai.com/archive/buttons/
   * https://css-tricks.com/
   
-### web 文档最全网址
+## web 文档最全网址
  * http://devdocs.io/
