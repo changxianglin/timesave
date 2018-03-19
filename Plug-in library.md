@@ -12,6 +12,7 @@
 * 一个收集的 UI 集 https://www.cnblogs.com/best/p/5782891.html
 * 复杂表格的 UI http://demo.topjui.com/
 * 国内的一个菜单树形插件 http://www.treejs.cn/
+* browser-sync 中文 http://www.browsersync.cn/
 ## 以下是一些图片处理库
       *  https://github.com/dimsemenov/Magnific-Popup
       *  https://github.com/jackmoore/colorbox
