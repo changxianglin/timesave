@@ -13,6 +13,7 @@
 * 复杂表格的 UI http://demo.topjui.com/
 * 国内的一个菜单树形插件 http://www.treejs.cn/
 * browser-sync 中文 http://www.browsersync.cn/
+* windows 必备打字键位 https://zhuanlan.zhihu.com/p/24020977
 ## 以下是一些图片处理库
       *  https://github.com/dimsemenov/Magnific-Popup
       *  https://github.com/jackmoore/colorbox
