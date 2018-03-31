@@ -19,3 +19,5 @@
 + [codewars](https://www.codewars.com/)
 + [牛客网](https://www.nowcoder.com/ta/js-assessment)
 + [FCC](https://freecodecamp.cn/)
++ [JS能力测评经典题](https://www.nowcoder.com/ta/js-assessment?query=&asc=true&order=&page=1)
++ [JS面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
