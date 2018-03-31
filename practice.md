@@ -15,7 +15,7 @@
 |-| | 3 | 4 |
 
 
-### javaScript 练习网站
+### JavaScript 练习网站
 + [codewars](https://www.codewars.com/)
 + [牛客网](https://www.nowcoder.com/ta/js-assessment)
 + [FCC](https://freecodecamp.cn/)
