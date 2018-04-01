@@ -21,3 +21,6 @@
 + [FCC](https://freecodecamp.cn/)
 + [JS能力测评经典题](https://www.nowcoder.com/ta/js-assessment?query=&asc=true&order=&page=1)
 + [JS面试经典题目合集](https://www.nowcoder.com/ta/front-end-interview)
++ [Codecademy](https://www.codecademy.com/)
++ [Upskill](https://upskillcourses.com/)
+
