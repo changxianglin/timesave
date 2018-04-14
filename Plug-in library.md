@@ -14,26 +14,28 @@
 * 国内的一个菜单树形插件 http://www.treejs.cn/
 * browser-sync 中文 http://www.browsersync.cn/
 * windows 必备打字键位 https://zhuanlan.zhihu.com/p/24020977
+
 ## 以下是一些图片处理库
-      *  https://github.com/dimsemenov/Magnific-Popup
-      *  https://github.com/jackmoore/colorbox
-      *  https://github.com/fancyapps/fancybox/tree/3.1
-      *  https://github.com/lokesh/lightbox2
-      *  https://github.com/sachinchoolur/lightgallery.js
-      *  https://github.com/terrymun/Fluidbox
-      *  https://github.com/brutaldesign/swipebox
-      *  https://github.com/noelboss/featherlight
-      *  https://github.com/feimosi/baguetteBox.js
-      *  https://github.com/jsor/lity
-      *  https://github.com/henrygd/bigpicture
-      *  https://github.com/appleple/SmartPhoto
-      *  https://github.com/nicolafranchini/VenoBox
-      *  https://github.com/cbopp-art/lightcase
-      *  https://github.com/imgix/luminous
-      *  https://github.com/rejas/imagelightbox
-      *  http://lokeshdhakar.com/projects/lightbox2/
+*  https://github.com/dimsemenov/Magnific-Popup
+*  https://github.com/jackmoore/colorbox
+*  https://github.com/fancyapps/fancybox/tree/3.1
+*  https://github.com/lokesh/lightbox2
+*  https://github.com/sachinchoolur/lightgallery.js
+*  https://github.com/terrymun/Fluidbox
+*  https://github.com/brutaldesign/swipebox
+*  https://github.com/noelboss/featherlight
+*  https://github.com/feimosi/baguetteBox.js
+*  https://github.com/jsor/lity
+*  https://github.com/henrygd/bigpicture
+*  https://github.com/appleple/SmartPhoto
+*  https://github.com/nicolafranchini/VenoBox
+*  https://github.com/cbopp-art/lightcase
+*  https://github.com/imgix/luminous
+*  https://github.com/rejas/imagelightbox
+*  http://lokeshdhakar.com/projects/lightbox2/
+
 ## 后台管理界面模板
-     * http://blog.csdn.net/weiyang7545/article/details/51773199
+ * http://blog.csdn.net/weiyang7545/article/details/51773199
 
 ## 这是一个插件
  * http://layer.layui.com/
