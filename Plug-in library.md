@@ -52,10 +52,10 @@
 * http://www.runoob.com/（有文档，有例子）
 
 ## CSS 效果库
+  * https://css-tricks.com/
   * http://lea.verou.me/css3patterns/
   * http://bennettfeely.com/gradients/
   * http://simurai.com/archive/buttons/
-  *  https://css-tricks.com/
   
 ## web 文档最全网址
  * http://devdocs.io/
