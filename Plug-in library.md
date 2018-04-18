@@ -62,3 +62,6 @@
 
 ## yes
 * https://www.w3schools.com/
+
+## JavaScript 设计模式
+* [该博客讲设计模式](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
