@@ -24,3 +24,7 @@
 + [Codecademy](https://www.codecademy.com/)
 + [Upskill](https://upskillcourses.com/)
 
+
+## 记忆曲线
++ 科学的学习必然提高效率
++ 提高 HTTP 的知识
