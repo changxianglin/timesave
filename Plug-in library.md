@@ -65,3 +65,6 @@
 
 ## JavaScript 设计模式
 * [该博客讲设计模式](http://www.alloyteam.com/2012/10/common-javascript-design-patterns/)
+
+## 练习场
+* [练习](https://github.com/changxianglin/timesave/blob/master/practice.md)
