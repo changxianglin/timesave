@@ -71,3 +71,6 @@
 
 ## GIF
 * [calicep](https://www.cockos.com/calicep/)
+
+## webstorm 注册码
+* [总有一个可用](https://blog.csdn.net/u013218587/article/details/79853397)
