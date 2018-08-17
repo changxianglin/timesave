@@ -16,6 +16,7 @@
 * windows 必备打字键位 https://zhuanlan.zhihu.com/p/24020977
 * [动画库, 各种滑动,且是中文文档, Swiper](http://www.swiper.com.cn/)
 * [一个优秀的图片及文字的特效轻量动画库](https://daneden.github.io/animate.css/)
+* [CSS3 好看的颜色值](http://www.colorhunter.com/)
 ## alert 全面替代品
  * [sweetalert2](https://sweetalert2.github.io/) 
 
