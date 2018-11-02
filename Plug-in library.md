@@ -18,7 +18,8 @@
 * [一个优秀的图片及文字的特效轻量动画库](https://daneden.github.io/animate.css/)
 * [CSS3 好看的颜色值](http://www.colorhunter.com/)
 ## alert 全面替代品
- * [sweetalert2](https://sweetalert2.github.io/) 
+ * [sweetalert2](https://sweetalert2.github.io/)
+ * [重置 CSS](https://meyerweb.com/eric/tools/css/reset/) 
 
 ## 以下是一些图片处理库
 *  https://github.com/dimsemenov/Magnific-Popup
