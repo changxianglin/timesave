@@ -2,6 +2,16 @@
 ### 2）git 应该多加练习
 #### git 强推命令 git push -f (一般不推荐，在有些特殊情况下仅限个人项目使用） 
 
+### 几个常用 git 命令
+* git clone
+* git commit 
+* git push
+* git branch
+* git branch -a
+* git checkout
+* git merge
+
+
 #### 1.1 ) atom 预览 markdown 语法的结果命令
 ```
 ctr + shift + p 打开命令输入框
