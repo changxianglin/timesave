@@ -26,3 +26,5 @@ ctr + shift + p 打开命令输入框
   * [github 常用命令](http://www.runoob.com/manual/github-git-cheat-sheet.pdf)
   * [廖雪峰 git & github & 码云](https://www.liaoxuefeng.com/wiki/0013739516305929606dd18361248578c67b8067c8c017b000)
   * [图像化 git 命令行练习](https://learngitbranching.js.org/)
+
+### 多多使用，多多练习。
